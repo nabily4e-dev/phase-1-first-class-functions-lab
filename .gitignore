@@ -40,3 +40,5 @@ yarn.lock
 # replit files
 .replit
 replit.nix
+
+.results.json
